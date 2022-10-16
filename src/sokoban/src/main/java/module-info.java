@@ -1,8 +1,7 @@
-module ch.tcraft.gibb.sokoban {
+module ch.tcraft.gibb.sokobanv1 {
     requires javafx.controls;
     requires javafx.fxml;
 
-    requires com.almasb.fxgl.all;
 
     opens ch.tcraft.gibb.sokoban to javafx.fxml;
     exports ch.tcraft.gibb.sokoban;
