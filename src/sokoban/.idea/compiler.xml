@@ -13,4 +13,9 @@
       <module name="sokoban" target="18" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sokoban" options="--add-exports java.base/javax=ch.tcraft.gibb.sokobanv1" />
+    </option>
+  </component>
 </project>

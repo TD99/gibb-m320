@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<p>Hallo Welt! Wie geht's dir?</p>-->
+<levels>
+<level name="Level 1" description="Nices Level">
+############
+######..X###
+#S....@...##.
+######..####
+############
+</level>
+</levels>
